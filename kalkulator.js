@@ -14,6 +14,9 @@ function hitung() {
         case "-":
             hasil = angka1 - angka2;
             break;
+        case "*":
+            hasil = angka1 * angka2;
+            break;
 
     }
 
